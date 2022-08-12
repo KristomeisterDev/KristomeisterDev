@@ -1,7 +1,7 @@
 ### console.log('Hello World from Mexico!! 👋')
 
 I’m a developer living in Mexico City, my programming languages/plattforms are: Javascript, Node.js, React, C#, .Net, .Netcore, MongoDB, SQLserver, ibmCloud, AWS, GCP.
-and I’m currently learning Next.js 😄
+and I’m currently learning Next.js, SpecFlow, BDD, NX, Strapi. 😄
 
 # About Me ✨
 I am a fan of soccer and video games, I love reading about history, physics, astronomy and technologies. Since my childhood I have been attracted to the world of technology, for the same reason I developed web through the MERN stack and with the support of libraries such as jquery and react-bootstrap in agile methodologies in scrum, likewise I am constantly learning and with great motivation to continue improving and developing professionally, accustomed to teamwork management and leadership, resilient and with logical thinking and algorithms.
